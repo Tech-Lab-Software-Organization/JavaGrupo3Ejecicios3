@@ -1,3 +1,16 @@
+EJERCICIO #1
+
+CREAR UN PROGRAMA QUE LEA UNA CADENA Y QUITE LOS ESPACIOS EN BLANCO
+
+EJERCICIO #2
+
+CREAR UN PROGRAMA QUE LEA UNA CADENA, SUSTITUYA POR MAYUSCULAS LA PRIMERA LETRA DE LA CADENA Y LA PRIMERA LETRA DEPUES DE UN ESPACIO.
+
+EJERCICIO #3
+
+DESARROLLAR UN PROGRAMA QUE PERMITA ALMACENAR MULRIPLES ELEMENTOS DE LA CADENA DE LA CLASE LIBRO 
+LA CLASE LIBRO VA A TENER LOS SIGUIENTE (Id,Titulo,Edicion,Autor) EN UN LINKEDHASHSET
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
@@ -16,3 +29,4 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
