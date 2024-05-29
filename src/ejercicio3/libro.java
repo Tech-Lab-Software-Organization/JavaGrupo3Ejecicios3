@@ -69,5 +69,16 @@ public class libro {
         }
     }
 
-     
+    public boolean removeBook(int id) {
+        for (libro libro : Libros) {
+            if (libro.getId() == id) {
+                Libros.remove(libro);
+                System.out.println("Se eliminó el libro : " + id);
+                return true;
+            }
+        }
+        System.out.println("No se encontró el libro : " + id);
+        return false;
+    }
 }
+
