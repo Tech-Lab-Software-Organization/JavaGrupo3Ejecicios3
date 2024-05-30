@@ -11,5 +11,8 @@ public class App extends libro{
         libro.addBook(libro3);
 
         libro.toListBook();
+        libro.removeBook(1);
+        libro.removeBook(2);
+        libro.toListBook();
     }
 }
