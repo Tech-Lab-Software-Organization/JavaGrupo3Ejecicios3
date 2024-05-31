@@ -6,7 +6,9 @@ public class Espacios {
         Cadena cadena = new Cadena();
          String espacios = cadena.CadenaSinEspacios();
          System.out.println(espacios);      
-        
+
+         String noEspacios2 = espacios.replaceAll("\\s", "");
+         System.out.println(noEspacios2);        
    }
  }
 
